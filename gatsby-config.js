@@ -20,5 +20,9 @@ module.exports = {
       resolve: `gatsby-theme-blog`,
       options: {},
     },
+    {
+      resolve: `gatsby-theme-layout`,
+      options: {},
+    },
   ],
 }
